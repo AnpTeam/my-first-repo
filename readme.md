@@ -1,1 +1,1 @@
-#My First .Git tutorial HapFuuudfdf
+#My First .Git tutorial
